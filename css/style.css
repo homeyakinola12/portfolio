@@ -1,0 +1,25 @@
+.hello{
+border:2px solid tomato;
+}
+.world{
+border:2px solid dodgerblue;
+}
+.hola{
+	border: 2px solid violet;
+} 
+div.first{
+	opacity: 0.1;
+background-color: green;
+}
+div.second{
+	opacity: 0.3;
+background-color: green;
+}
+div.third{
+	opacity: 0.6;
+background-color: green;
+}
+div.fourth{
+background-color: green;
+	opacity: 1;
+}
